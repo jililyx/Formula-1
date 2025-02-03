@@ -1,0 +1,1539 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circuits.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>circuits.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="circuitId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circuits.csv" type="V_String" />
+            <Field name="circuitRef" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circuits.csv" type="V_String" />
+            <Field name="name" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circuits.csv" type="V_String" />
+            <Field name="location" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circuits.csv" type="V_String" />
+            <Field name="country" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circuits.csv" type="V_String" />
+            <Field name="lat" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circuits.csv" type="V_String" />
+            <Field name="lng" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circuits.csv" type="V_String" />
+            <Field name="alt" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circuits.csv" type="V_String" />
+            <Field name="url" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circuits.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="594" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Max\Documents\MASTERS\ML Final\Datasets\constructors.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>constructors.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="constructorId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\constructors.csv" type="V_String" />
+            <Field name="constructorRef" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\constructors.csv" type="V_String" />
+            <Field name="name" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\constructors.csv" type="V_String" />
+            <Field name="nationality" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\constructors.csv" type="V_String" />
+            <Field name="url" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\constructors.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="102" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_times.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>lap_times.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="raceId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_times.csv" type="V_String" />
+            <Field name="driverId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_times.csv" type="V_String" />
+            <Field name="lap" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_times.csv" type="V_String" />
+            <Field name="position" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_times.csv" type="V_String" />
+            <Field name="time" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_times.csv" type="V_String" />
+            <Field name="milliseconds" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_times.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="114" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Max\Documents\MASTERS\ML Final\Datasets\pit_stops.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>pit_stops.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="raceId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\pit_stops.csv" type="V_String" />
+            <Field name="driverId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\pit_stops.csv" type="V_String" />
+            <Field name="stop" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\pit_stops.csv" type="V_String" />
+            <Field name="lap" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\pit_stops.csv" type="V_String" />
+            <Field name="time" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\pit_stops.csv" type="V_String" />
+            <Field name="duration" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\pit_stops.csv" type="V_String" />
+            <Field name="milliseconds" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\pit_stops.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>races.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="raceId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="year" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="round" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="circuitId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="name" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="date" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="time" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="url" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="fp1_date" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="fp1_time" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="fp2_date" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="fp2_time" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="fp3_date" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="fp3_time" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="quali_date" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="quali_time" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="sprint_date" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+            <Field name="sprint_time" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\races.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="582" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Max\Documents\MASTERS\ML Final\Datasets\drivers.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>drivers.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="driverId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\drivers.csv" type="V_String" />
+            <Field name="driverRef" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\drivers.csv" type="V_String" />
+            <Field name="number" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\drivers.csv" type="V_String" />
+            <Field name="code" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\drivers.csv" type="V_String" />
+            <Field name="forename" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\drivers.csv" type="V_String" />
+            <Field name="surname" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\drivers.csv" type="V_String" />
+            <Field name="dob" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\drivers.csv" type="V_String" />
+            <Field name="nationality" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\drivers.csv" type="V_String" />
+            <Field name="url" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\drivers.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="702" y="438" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="resultId" selected="False" />
+            <SelectField field="number" selected="False" />
+            <SelectField field="grid" selected="False" />
+            <SelectField field="position" selected="False" />
+            <SelectField field="positionText" selected="False" />
+            <SelectField field="points" selected="False" />
+            <SelectField field="laps" selected="True" rename="tot_laps" />
+            <SelectField field="time" selected="False" />
+            <SelectField field="milliseconds" selected="False" />
+            <SelectField field="fastestLap" selected="False" />
+            <SelectField field="rank" selected="False" />
+            <SelectField field="fastestLapTime" selected="False" />
+            <SelectField field="fastestLapSpeed" selected="False" />
+            <SelectField field="statusId" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="678" y="354" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="constructorRef" selected="False" />
+            <SelectField field="name" selected="True" rename="cons_name" />
+            <SelectField field="nationality" selected="True" rename="cons_nation" />
+            <SelectField field="url" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="234" y="354" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="stop" selected="True" type="Int16" size="2" />
+            <SelectField field="lap" selected="True" type="Int16" size="2" />
+            <SelectField field="time" selected="True" type="Time" size="8" />
+            <SelectField field="duration" selected="False" />
+            <SelectField field="milliseconds" selected="True" rename="duration in ms" type="Int64" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="318" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="raceId" action="GroupBy" rename="raceId" />
+            <SummarizeField field="driverId" action="GroupBy" rename="driverId" />
+            <SummarizeField field="stop" action="Count" rename="Count" />
+            <SummarizeField field="duration in ms" action="Sum" rename="Sum_duration in ms" />
+            <SummarizeField field="stop" action="Avg" rename="Avg_stop" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="402" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[Sum_duration in ms]/[Count]" field="AvgPitDurationMS" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[AvgPitDurationMS = [Sum_duration in ms]/[Count]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="666" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="number" selected="False" />
+            <SelectField field="code" selected="False" />
+            <SelectField field="forename" selected="False" />
+            <SelectField field="surname" selected="False" />
+            <SelectField field="dob" selected="True" type="Date" size="10" />
+            <SelectField field="url" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="150" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="circuitRef" selected="False" />
+            <SelectField field="name" selected="True" rename="circ_name" />
+            <SelectField field="lat" selected="False" />
+            <SelectField field="lng" selected="False" />
+            <SelectField field="alt" selected="False" />
+            <SelectField field="url" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="138" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="raceId" selected="True" />
+            <SelectField field="year" selected="True" type="Int16" size="2" />
+            <SelectField field="circuitId" selected="True" />
+            <SelectField field="date" selected="True" />
+            <SelectField field="time" selected="True" rename="raceTime" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="222" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>&gt;=</Operator>
+            <Field>year</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-12-03 01:07:48</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>2013</Operand>
+              <StartDate>2024-12-03 01:07:48</StartDate>
+              <EndDate>2024-12-03 01:07:48</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[year] &gt;= 2013</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="282" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="circuitId" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="circuitId" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_raceId" selected="True" input="Right_" />
+                <SelectField field="Right_date" selected="True" input="Right_" />
+                <SelectField field="Right_year" selected="True" input="Right_" />
+                <SelectField field="Right_raceTime" selected="True" input="Right_" />
+                <SelectField field="Left_circuitId" selected="True" input="Left_" />
+                <SelectField field="Left_name" selected="False" input="Left_" />
+                <SelectField field="Left_circ_name" selected="True" input="Left_" />
+                <SelectField field="Left_location" selected="True" input="Left_" />
+                <SelectField field="Left_country" selected="True" input="Left_" />
+                <SelectField field="Right_circuitId" selected="False" rename="Right_circuitId" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="186" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="lap" selected="True" rename="lap_no" type="Int16" size="2" />
+            <SelectField field="position" selected="True" rename="position_lap" />
+            <SelectField field="time" selected="False" />
+            <SelectField field="milliseconds" selected="True" rename="lap_time_ms" type="Int64" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="50">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="270" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="raceId" action="GroupBy" rename="raceId" />
+            <SummarizeField field="driverId" action="GroupBy" rename="driverId" />
+            <SummarizeField field="lap_no" action="Max" rename="Max_lap_no" />
+            <SummarizeField field="lap_time_ms" action="Sum" rename="Sum_lap_time_ms" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="51">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="342" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[Sum_lap_time_ms]/[Max_lap_no]" field="Avg_lap_time" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Avg_lap_time = [Sum_lap_time_ms]/[Max_lap_no]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="52">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="426" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="raceId" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="raceId" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_raceId" selected="False" rename="Right_raceId" input="Right_" />
+                <SelectField field="Right_Max_lap_no" selected="False" input="Right_" />
+                <SelectField field="Right_Sum_lap_time_ms" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="54">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="582" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="raceId" />
+            <Field field="driverId" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="raceId" />
+            <Field field="driverId" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_raceId" selected="True" input="Left_" />
+                <SelectField field="Left_date" selected="True" input="Left_" />
+                <SelectField field="Left_year" selected="True" input="Left_" />
+                <SelectField field="Left_raceTime" selected="True" input="Left_" />
+                <SelectField field="Left_circuitId" selected="True" input="Left_" />
+                <SelectField field="Left_circ_name" selected="True" input="Left_" />
+                <SelectField field="Left_location" selected="True" input="Left_" />
+                <SelectField field="Left_country" selected="True" input="Left_" />
+                <SelectField field="Left_driverId" selected="True" input="Left_" />
+                <SelectField field="Left_Avg_lap_time" selected="True" input="Left_" />
+                <SelectField field="Right_Avg_stop" selected="True" input="Right_" />
+                <SelectField field="Right_raceId" selected="False" rename="Right_raceId" input="Right_" />
+                <SelectField field="Right_driverId" selected="False" rename="Right_driverId" input="Right_" />
+                <SelectField field="Right_Sum_stop" selected="False" input="Right_" />
+                <SelectField field="Right_Count" selected="False" rename="no_stops" input="Right_" />
+                <SelectField field="Right_Sum_duration in ms" selected="False" input="Right_" />
+                <SelectField field="Right_AvgPitDurationMS" selected="True" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="55">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="702" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="56">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="846" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="driverId" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="driverId" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_raceId" selected="True" input="Left_" />
+                <SelectField field="Left_date" selected="True" input="Left_" />
+                <SelectField field="Left_year" selected="True" input="Left_" />
+                <SelectField field="Left_raceTime" selected="True" input="Left_" />
+                <SelectField field="Left_circuitId" selected="True" input="Left_" />
+                <SelectField field="Left_circ_name" selected="True" input="Left_" />
+                <SelectField field="Left_location" selected="True" input="Left_" />
+                <SelectField field="Left_country" selected="True" input="Left_" />
+                <SelectField field="Left_driverId" selected="True" input="Left_" />
+                <SelectField field="Right_driverRef" selected="True" input="Right_" />
+                <SelectField field="Right_dob" selected="True" rename="driver_dob" input="Right_" />
+                <SelectField field="Right_nationality" selected="True" rename="driver_nation" input="Right_" />
+                <SelectField field="Left_Avg_lap_time" selected="True" input="Left_" />
+                <SelectField field="Left_Sum_stop" selected="False" input="Left_" />
+                <SelectField field="Left_no_stops" selected="True" input="Left_" />
+                <SelectField field="Left_AvgPitDurationMS" selected="True" input="Left_" />
+                <SelectField field="Right_driverId" selected="False" rename="Right_driverId" input="Right_" />
+                <SelectField field="Left_Avg_stop" selected="True" input="Left_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="618" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>results.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="resultId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="raceId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="driverId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="constructorId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="number" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="grid" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="position" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="positionText" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="positionOrder" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="points" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="laps" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="time" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="milliseconds" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="fastestLap" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="rank" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="fastestLapTime" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="fastestLapSpeed" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+            <Field name="statusId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\results.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="57">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="798" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="constructorId" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="constructorId" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_constructorId" selected="False" rename="Right_constructorId" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="58">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="978" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="raceId" />
+            <Field field="driverId" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="raceId" />
+            <Field field="driverId" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_raceId" selected="True" input="Left_" />
+                <SelectField field="Left_date" selected="True" input="Left_" />
+                <SelectField field="Left_year" selected="True" input="Left_" />
+                <SelectField field="Left_raceTime" selected="True" input="Left_" />
+                <SelectField field="Left_circuitId" selected="True" input="Left_" />
+                <SelectField field="Left_circ_name" selected="True" input="Left_" />
+                <SelectField field="Left_location" selected="True" input="Left_" />
+                <SelectField field="Left_country" selected="True" input="Left_" />
+                <SelectField field="Left_driverId" selected="True" input="Left_" />
+                <SelectField field="Left_driverRef" selected="True" input="Left_" />
+                <SelectField field="Left_driver_dob" selected="True" input="Left_" />
+                <SelectField field="Left_driver_nation" selected="True" input="Left_" />
+                <SelectField field="Left_Avg_lap_time" selected="True" input="Left_" />
+                <SelectField field="Left_Sum_stop" selected="False" input="Left_" />
+                <SelectField field="Left_no_stops" selected="True" input="Left_" />
+                <SelectField field="Left_AvgPitDurationMS" selected="True" input="Left_" />
+                <SelectField field="Right_positionOrder" selected="True" input="Right_" />
+                <SelectField field="Right_tot_laps" selected="True" input="Right_" />
+                <SelectField field="Right_constructorId" selected="True" input="Right_" />
+                <SelectField field="Right_cons_name" selected="True" input="Right_" />
+                <SelectField field="Right_cons_nation" selected="True" input="Right_" />
+                <SelectField field="Right_raceId" selected="False" rename="Right_raceId" input="Right_" />
+                <SelectField field="Right_driverId" selected="False" rename="Right_driverId" input="Right_" />
+                <SelectField field="Left_Avg_stop" selected="True" input="Left_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="59">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1434" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="date" selected="True" rename="race_date" type="Date" size="10" />
+            <SelectField field="year" selected="True" rename="race_year" />
+            <SelectField field="raceTime" selected="True" type="Time" size="8" />
+            <SelectField field="Avg_lap_time" selected="True" type="Float" size="4" />
+            <SelectField field="AvgPitDurationMS" selected="True" type="Float" size="4" />
+            <SelectField field="positionOrder" selected="True" type="Int16" size="2" />
+            <SelectField field="tot_laps" selected="True" type="Int16" size="2" />
+            <SelectField field="constructorId" selected="False" />
+            <SelectField field="no_stops" selected="True" type="Int16" size="2" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="61">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="2370" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\Max\Documents\MASTERS\ML Final\LapTimeVars.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>LapTimeVars.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="63">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1518" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="DateTimeDiff(DateTimeParse([race_date], &quot;%Y-%m-%d&quot;), DateTimeParse([driver_dob], &quot;%Y-%m-%d&quot;), &quot;Year&quot;)&#xA;&#xA;" field="driver_age" size="4" type="Float" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>driver_age = DateTimeDiff(DateTimeParse([race_date], "%Y-%m-%d"), DateTimeParse(...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="64">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1602" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="race_date" selected="True" />
+            <SelectField field="race_year" selected="True" />
+            <SelectField field="raceTime" selected="True" />
+            <SelectField field="circ_name" selected="True" />
+            <SelectField field="location" selected="True" />
+            <SelectField field="country" selected="True" />
+            <SelectField field="driverRef" selected="True" />
+            <SelectField field="driver_age" selected="True" />
+            <SelectField field="driver_dob" selected="False" />
+            <SelectField field="driver_nation" selected="True" />
+            <SelectField field="Avg_lap_time" selected="True" />
+            <SelectField field="no_stops" selected="True" />
+            <SelectField field="AvgPitDurationMS" selected="True" />
+            <SelectField field="positionOrder" selected="True" />
+            <SelectField field="tot_laps" selected="True" />
+            <SelectField field="cons_name" selected="True" />
+            <SelectField field="cons_nation" selected="True" />
+            <SelectField field="Avg_stop" selected="True" />
+            <SelectField field="lap_limit" selected="True" type="Int16" size="2" />
+            <SelectField field="Right_Avg_stop" selected="True" />
+            <SelectField field="Right_AvgPitDurationMS" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="65">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1710" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="DateTimeMonth([race_date])&#xA;" field="race_month" size="4" type="Int32" enabled="true" />
+            <FormulaField expression="DateTimeQuarter([race_date])" field="race_quarter" size="4" type="Int32" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>race_month = DateTimeMonth([race_date])
+
+race_quarter = DateTimeQuarter([race_da...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="66">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1902" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="race_date" selected="True" />
+            <SelectField field="race_month" selected="True" />
+            <SelectField field="race_quarter" selected="True" />
+            <SelectField field="race_year" selected="True" />
+            <SelectField field="raceTime" selected="True" />
+            <SelectField field="circ_name" selected="True" />
+            <SelectField field="location" selected="True" />
+            <SelectField field="country" selected="True" />
+            <SelectField field="driverRef" selected="True" />
+            <SelectField field="driver_age" selected="True" />
+            <SelectField field="driver_nation" selected="True" />
+            <SelectField field="Avg_lap_time" selected="True" />
+            <SelectField field="no_stops" selected="False" />
+            <SelectField field="AvgPitDurationMS" selected="True" />
+            <SelectField field="Avg_stop" selected="True" />
+            <SelectField field="positionOrder" selected="True" />
+            <SelectField field="lap_limit" selected="True" type="Int32" size="4" />
+            <SelectField field="tot_laps" selected="True" rename="diff_lap" />
+            <SelectField field="cons_name" selected="True" />
+            <SelectField field="cons_nation" selected="True" />
+            <SelectField field="Right_Avg_stop" selected="False" />
+            <SelectField field="Right_AvgPitDurationMS" selected="False" />
+            <SelectField field="raceId" selected="True" />
+            <SelectField field="circuitId" selected="True" />
+            <SelectField field="driverId" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="67">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1074" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="circuitId" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="circuitId" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_circuitId" selected="False" rename="Right_circuitId" input="Right_" />
+                <SelectField field="Right_Overall_Avg_lap_time" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="68">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="954" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_limit.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>lap_limit.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="circuitId" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_limit.csv" type="V_String" />
+            <Field name="lap_limit" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_limit.csv" type="V_String" />
+            <Field name="Overall_Avg_lap_time" size="254" source="File: C:\Users\Max\Documents\MASTERS\ML Final\Datasets\lap_limit.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="72">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1278" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF IsNull([Avg_stop]) THEN 0 ELSE [Avg_stop] ENDIF" field="Avg_stop" size="8" type="Double" enabled="true" />
+            <FormulaField expression="IF IsNull([AvgPitDurationMS]) THEN 0.001 ELSE [AvgPitDurationMS] ENDIF" field="AvgPitDurationMS" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Avg_stop = IF IsNull([Avg_stop]) THEN 0 ELSE [Avg_stop] ENDIF
+AvgPitDurationMS =...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="73">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1806" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[lap_limit]-[tot_laps]" field="tot_laps" size="2" type="Int16" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[tot_laps = [lap_limit]-[tot_laps]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="74">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="1998" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="circuitId" action="GroupBy" rename="circuitId" />
+            <SummarizeField field="driverId" action="GroupBy" rename="driverId" />
+            <SummarizeField field="diff_lap" action="Avg" rename="Avg_diff_lap" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="75">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="1938" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="circuitId" action="GroupBy" rename="circuitId" />
+            <SummarizeField field="diff_lap" action="Avg" rename="Avg_diff_lap" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="76">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="2106" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\Max\Documents\MASTERS\ML Final\Datasets\driv_circ_diff_laps.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>driv_circ_diff_laps.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="77">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="2094" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\Max\Documents\MASTERS\ML Final\Datasets\circ_difflaps.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>circ_difflaps.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="78">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="2214" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="race_date" selected="True" />
+            <SelectField field="race_month" selected="True" />
+            <SelectField field="race_quarter" selected="True" />
+            <SelectField field="race_year" selected="True" />
+            <SelectField field="Time_of_Day" selected="True" />
+            <SelectField field="raceTime" selected="False" />
+            <SelectField field="circ_name" selected="True" />
+            <SelectField field="location" selected="True" />
+            <SelectField field="country" selected="True" />
+            <SelectField field="driverRef" selected="True" />
+            <SelectField field="driver_age" selected="True" />
+            <SelectField field="driver_nation" selected="True" />
+            <SelectField field="Avg_lap_time" selected="True" />
+            <SelectField field="AvgPitDurationMS" selected="True" />
+            <SelectField field="Avg_stop" selected="True" />
+            <SelectField field="positionOrder" selected="True" />
+            <SelectField field="lap_limit" selected="True" />
+            <SelectField field="diff_lap" selected="True" />
+            <SelectField field="cons_name" selected="True" />
+            <SelectField field="cons_nation" selected="True" />
+            <SelectField field="raceId" selected="False" />
+            <SelectField field="circuitId" selected="False" />
+            <SelectField field="driverId" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="79">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="2046" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF DateTimeHour(DateTimeParse([raceTime],&quot;%H:%M:%S&quot;)) &gt;= 6 AND DateTimeHour(DateTimeParse([raceTime],&quot;%H:%M:%S&quot;)) &lt; 12 THEN&#xA;    &quot;Morning&quot;&#xA;ELSEIF DateTimeHour(DateTimeParse([raceTime],&quot;%H:%M:%S&quot;)) &gt;= 12 AND DateTimeHour(DateTimeParse([raceTime],&quot;%H:%M:%S&quot;)) &lt; 18 THEN&#xA;    &quot;Afternoon&quot;&#xA;ELSE&#xA;    &quot;Evening&quot;&#xA;ENDIF" field="Time_of_Day" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Time_of_Day = IF DateTimeHour(DateTimeParse([raceTime],"%H:%M:%S")) &gt;= 6 AND Dat...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="57" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="57" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="54" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Join" />
+      <Destination ToolID="54" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="56" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="55" Connection="Output" />
+      <Destination ToolID="56" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="44" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="True" />
+      <Destination ToolID="44" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Join" />
+      <Destination ToolID="52" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="52" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Output" />
+      <Destination ToolID="50" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="50" Connection="Output" />
+      <Destination ToolID="51" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="54" Connection="Join" />
+      <Destination ToolID="55" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="54" Connection="Left" />
+      <Destination ToolID="55" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="56" Connection="Join" />
+      <Destination ToolID="58" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="57" Connection="Join" />
+      <Destination ToolID="58" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="Join" />
+      <Destination ToolID="67" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="68" Connection="Output" />
+      <Destination ToolID="67" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="Output" />
+      <Destination ToolID="63" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="63" Connection="Output" />
+      <Destination ToolID="64" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="64" Connection="Output" />
+      <Destination ToolID="65" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="65" Connection="Output" />
+      <Destination ToolID="73" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="66" Connection="Output" />
+      <Destination ToolID="74" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="66" Connection="Output" />
+      <Destination ToolID="75" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="66" Connection="Output" />
+      <Destination ToolID="79" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="67" Connection="Join" />
+      <Destination ToolID="72" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="72" Connection="Output" />
+      <Destination ToolID="59" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="73" Connection="Output" />
+      <Destination ToolID="66" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="74" Connection="Output" />
+      <Destination ToolID="76" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="75" Connection="Output" />
+      <Destination ToolID="77" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="78" Connection="Output" />
+      <Destination ToolID="61" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="79" Connection="Output" />
+      <Destination ToolID="78" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>LapTimes</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="a871db35-3b2d-4a29-8311-5da9b1321f0b" />
+      <Telemetry>
+        <PreviousWorkflowId value="076d60a2-2a1d-4cec-8ba7-870da132768a" />
+        <OriginWorkflowId value="076d60a2-2a1d-4cec-8ba7-870da132768a" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

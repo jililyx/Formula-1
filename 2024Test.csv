@@ -1,0 +1,251 @@
+race_date,race_month,race_quarter,race_year,raceTime,circ_name,location,country,driverRef,AvgPitDurationMS,Avg_stop,positionOrder,lap_limit,diff_lap
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,piastri,40668.6334769254,1.54811417748918,2,44,7.66359447004608
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,lawson,102462.104565024,1.28073089700997,16,71,5
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,bearman,133795.290216239,1.56375,10,51,5.06428571428571
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,lawson,23268.7631578947,1.31578947368421,16,50,2.85
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,lawson,22577.5477861488,1.34387444992284,17,55,2.46818181818182
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,bearman,114204.358670773,1.89672660672661,12,71,3.921875
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,lawson,114204.358670773,1.89672660672661,9,71,3.921875
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,lawson,24953.6483460202,1.36289908008658,9,56,6.605
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,leclerc,24077.8333333333,1.16666666666667,1,53,5.5
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,bottas,32744.5,1.5,18,50,0
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,hulkenberg,29838.5,1.5,6,52,0.111111111111111
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,zhou,25673.5,1.5,19,56,0.5
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,norris,24453.875,1.5,4,56,0
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,leclerc,22457,1.66666666666667,3,72,10.6666666666667
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,albon,25310.6666666667,1.66666666666667,16,56,0
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,alonso,178431.791666667,1.58333333333333,6,51,1.5
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,stroll,27485.3330078125,1.5,18,57,0
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,hulkenberg,122572.25,1.16666666666667,9,71,8.33333333333333
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,piastri,29370.5,1.5,5,52,0
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,leclerc,28960,2,11,52,4.85714285714286
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,hamilton,23777.5,1.5,2,50,0
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,hamilton,55412.067578125,1.5,1,44,5
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,ricciardo,67616.9090909091,1.31818181818182,10,44,7.72727272727273
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,norris,30136.6666666667,1,1,61,0.333333333333333
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,tsunoda,31293,1,12,61,27
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,albon,28993.666015625,2,15,57,0
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,ocon,27275,1.5,20,57,0
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,bottas,25359.25,1.35,17,56,9.2
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,tsunoda,29829,1.5,13,52,0
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,ocon,119027.03125,1.3,19,69,11
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,sainz,26313.5714285714,1.35714285714286,2,56,7
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,gasly,341522.330357143,1.35714285714286,19,52,4.57142857142857
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,hulkenberg,501464.1875,3,11,72,0
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,stroll,25142.1110026042,1.5,15,56,6.66666666666667
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,gasly,22262,1,20,50,0
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,perez,29709.0408380682,1.63636363636364,10,61,2.77777777777778
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,hulkenberg,23803.5,1.5,8,50,5
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,ocon,132567.5,1.07142857142857,14,53,2.28571428571429
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,gasly,185864.546875,1.5,12,51,2.6
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,piastri,21902,1.5,7,50,0
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,perez,22213.2638346354,1.45833333333333,20,55,3.81818181818182
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,zhou,22624,1,14,51,21.5
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,ocon,154351.28125,2.16666666666667,15,72,0.333333333333333
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,ocon,26392.666796875,1.4,18,56,11.3333333333333
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,piastri,21600.5,1.5,2,69,-1
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,sainz,76105.6840277778,1.5,4,69,0.666666666666667
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,russell,21604.5,1.5,1,50,0
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,hamilton,179675,2.33333333333333,8,72,0
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,russell,172020.75,1.25,5,71,1
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,hamilton,25308,1.5,12,57,0
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,russell,33186.0833333333,1.66666666666667,4,61,10.3333333333333
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,russell,117983.03125,1.6,17,69,-0.4
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,russell,23077.75,1.25,5,55,5
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,ocon,36318,2.33333333333333,13,61,14.75
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,albon,223703.166666667,1.33333333333333,19,71,0.333333333333333
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,perez,28412.9169921875,1.75,17,57,0
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,kevin_magnussen,23518.0951450893,1.5,14,44,5.125
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,stroll,22467.4285714286,1.42857142857143,14,55,0.571428571428571
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,kevin_magnussen,21739.5,1.5,12,50,0
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,max_verstappen,28720.5,1.5,4,52,6.22222222222222
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,lawson,28722,2,14,57,1
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,albon,21793.8333333333,1.16666666666667,7,51,0.666666666666667
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,sainz,25639,1,6,57,0
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,russell,32045,1,1,52,0.6
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,sargeant,31122.5,1.5,12,52,0
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,piastri,27966,1.5,2,53,2
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,gasly,80485.4860026042,2,3,71,0.5
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,tsunoda,23956.5,1.5,20,53,1
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,sainz,30003.6905691964,1.71428571428571,7,61,0.857142857142857
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,max_verstappen,109570.129557292,1.38888888888889,6,53,6.11111111111111
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,perez,23084.7857142857,1.07142857142857,17,71,13
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,gasly,23072.2,1.2,13,44,7.16666666666667
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,zhou,30306,2.5,14,52,0
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,sainz,21945.5,1.5,3,50,0
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,alonso,25395.2222222222,1.44444444444444,13,56,11.2222222222222
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,bottas,155991.825,1.9,13,71,8
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,max_verstappen,152402.301025391,2.25,1,71,0.125
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,max_verstappen,59112.82421875,1.8125,3,69,6.33333333333333
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,norris,174253.1,1.2,3,53,0.6
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,norris,23476,1.25,5,44,8.8
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,perez,52417.9857954545,1.54545454545455,7,44,4.18181818181818
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,piastri,621399,1.5,8,71,0
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,perez,27583.5,1.5,10,50,0
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,albon,23291.2915039063,1.375,12,44,0
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,ocon,424487.604296875,1.9,2,71,0.6
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,ocon,223925.166666667,1.08333333333333,13,71,1.16666666666667
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,leclerc,26835.1669921875,1.5,2,57,0
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,zhou,325198,1.25,15,71,0.5
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,ricciardo,62240.9360351563,1.70833333333333,9,69,-0.3
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,albon,32076,1.5,9,52,0
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,zhou,28884.333984375,2,8,57,0
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,norris,29524,1.5,3,52,0
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,tsunoda,183659.614583333,1.83333333333333,10,69,0
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,piastri,506716.1875,3,4,72,0
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,hamilton,29483.5,1.5,2,52,8.33333333333333e-02
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,tsunoda,184808.309244792,2,17,72,17.6666666666667
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,max_verstappen,155792.5,2.5,2,72,0
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,zhou,256553.078125,1.75,15,71,24.5
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,hulkenberg,69911.40625,1.57142857142857,18,44,0
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,albon,277774,1.16666666666667,9,53,0.666666666666667
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,bottas,92497.6363636364,1.09090909090909,16,53,0.272727272727273
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,perez,155869.166666667,2.5,6,72,0.333333333333333
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,max_verstappen,29488.4583333333,1.41666666666667,2,61,0.166666666666667
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,hamilton,23735.5454545455,1.31818181818182,20,56,0
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,stroll,238039.214285714,1.07142857142857,19,53,2.57142857142857
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,hamilton,62260.0144230769,1.19230769230769,5,53,2.72727272727273
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,russell,174751.4,1.2,7,53,0.6
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,hulkenberg,25856.2857142857,1.21428571428571,8,56,21.25
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,max_verstappen,72016.23046875,1.25,6,71,0
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,albon,23375.1669921875,1.75,18,71,0
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,sainz,29032.6666666667,1.33333333333333,6,44,20.375
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,max_verstappen,27000.333984375,2,1,57,0
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,piastri,20902,1,1,51,0
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,ricciardo,29374,1.5,15,52,3
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,leclerc,22670.4165039063,1.5,6,69,-0.75
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,leclerc,23104.2290039063,1.75,5,71,1.5
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,sainz,182784.802083333,2,5,72,0.333333333333333
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,leclerc,24274.4165039063,1.5,3,44,8.6
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,bottas,59389.7777777778,1.55555555555556,15,44,7.90909090909091
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,albon,21844,1.25,11,55,-1.25
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,albon,23496.0834960938,1.5,13,69,-0.25
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,zhou,25271.75,1.25,18,53,1
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,albon,324691.75,2.5,14,72,0
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,sargeant,23099,1.5,14,69,2
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,stroll,30440.8125,1.625,14,61,1.5
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,hamilton,160771.151785714,1.5,9,51,0
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,alonso,143991.1,1.2,18,71,24.7142857142857
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,alonso,27195.1669921875,1.5,7,57,0
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,gasly,175109.9,1.2,15,53,9
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,alonso,31390.3146701389,1.61111111111111,8,61,15.25
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,zhou,20565.5,2.5,20,72,5
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,russell,25207.1665039063,1.625,6,56,0.75
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,hulkenberg,23148.8094308036,1.42857142857143,8,55,-0.142857142857143
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,stroll,133823.739583333,2.5,13,72,0.666666666666667
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,kevin_magnussen,29340.666015625,2,9,57,1
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,ocon,78187.8056640625,1.58333333333333,9,44,6.28571428571429
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,sargeant,23539,2,17,44,0
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,leclerc,21850.1666666667,1.25,3,55,-1.33333333333333
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,tsunoda,323278.5,1.25,20,71,10.5
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,tsunoda,20756.5,1.5,9,50,4
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,leclerc,153031.7625,1.4,2,51,6
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,norris,156412.666666667,1.33333333333333,2,71,6.25
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,piastri,24953.6483460202,1.36289908008658,5,56,46
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,norris,26871.4169921875,1.75,10,57,0.5
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,hulkenberg,31724.5832519531,1.6875,9,61,9
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,perez,210790.154474432,1.86363636363636,11,71,0.3
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,russell,23060,1.16666666666667,19,44,15.8
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,ricciardo,30586.0068359375,1.6,18,61,5.5
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,zhou,23900.5,1.5,20,44,0
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,kevin_magnussen,30096,1.5,17,52,14.6666666666667
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,alonso,29513.5,1.5,10,52,2.44444444444444
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,stroll,22396,1.5,15,50,0
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,gasly,30770.5,1,17,61,0.5
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,sainz,22072.4444444444,1.27777777777778,2,55,3.44444444444444
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,bottas,162993.306640625,1.5,16,51,0.714285714285714
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,kevin_magnussen,28534.5625,1.25,10,53,6.625
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,zhou,25650.75,1.5,18,69,0
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,leclerc,30856,1,5,61,0.5
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,zhou,22701.5,1.5,13,55,-2.5
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,gasly,22196.3333333333,1.16666666666667,7,55,0.571428571428571
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,bottas,31077.5,1.5,16,52,2.83333333333333
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,ricciardo,127728.5,1.125,13,53,3.9
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,hulkenberg,210256.390625,2,20,71,5.25
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,norris,26281.3,1.3,1,69,13
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,norris,156267.996744792,2.16666666666667,1,72,0.333333333333333
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,norris,186251.953125,1.375,4,51,0
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,gasly,124009.083333333,1.25,10,71,0.833333333333333
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,norris,22246.7,1.3,1,55,-1.6
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,perez,87112.125,1.125,8,53,0.181818181818182
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,perez,171692.214285714,1.5,17,51,1.71428571428571
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,tsunoda,244120.833333333,1.5,20,51,0.333333333333333
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,leclerc,141428,1.2,3,71,0.4
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,ocon,21763,1,17,50,0
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,sainz,97266.75,1.3125,1,71,7.25
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,hulkenberg,129093.2890625,1.375,11,51,14
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,tsunoda,24913.75,1.5,16,44,14.3333333333333
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,sainz,318340.583426339,1.92857142857143,16,71,0.285714285714286
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,hulkenberg,23178.3517795139,1.38888888888889,11,69,10.375
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,perez,22562.8125,1.54166666666667,16,69,6
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,tsunoda,26947.5830078125,1.75,13,57,1
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,kevin_magnussen,30602.380859375,2,19,61,2.14285714285714
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,sargeant,157256.304412059,2.22115384615385,16,72,58
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,gasly,181355.635416667,2.16666666666667,9,72,0.333333333333333
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,max_verstappen,25278.8125,1.4375,3,56,3.5
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,piastri,28077.333984375,2,3,57,0
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,norris,23268.7631578947,1.31578947368421,6,50,48
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,zhou,22155,1,13,50,0
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,kevin_magnussen,23191.7082519531,1.3125,15,69,-0.125
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,sainz,108554.777777778,1.22222222222222,4,53,3.44444444444444
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,bottas,98549.3957519531,1.4375,14,71,0.5
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,perez,29718.75,2.5,19,52,1.2
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,zhou,30334.5,1.5,15,61,27
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,hamilton,30337.1122159091,1.63636363636364,6,61,3.77777777777778
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,piastri,29369,1,3,61,-1
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,alonso,23740.2222222222,1.22222222222222,11,53,11.4444444444444
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,gasly,94636.6,1.4,20,69,20
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,max_verstappen,21547.5740017361,1.27777777777778,6,55,-0.888888888888889
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,ricciardo,184837.125,1.5,13,51,5.33333333333333
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,stroll,123791.666666667,1.33333333333333,11,71,2
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,russell,109319.583496094,2.125,4,71,3.75
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,russell,137688.114583333,2.5,7,72,1
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,hamilton,21520.2916666667,1.25,4,55,-0.545454545454545
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,alonso,84366.4375,1.5,8,44,8
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,hamilton,49027.7306189904,1.88461538461538,5,69,-0.909090909090909
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,alonso,65577.9676846591,1.68181818181818,7,69,-0.555555555555556
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,kevin_magnussen,22945.4166666667,1.08333333333333,7,71,7.83333333333333
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,stroll,107806.43125,1.3,19,51,4.5
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,piastri,21426.5,1.5,10,55,-3
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,piastri,417342.5,2.5,8,71,2
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,leclerc,22559,1,4,50,0
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,bottas,32888.8330078125,1.5,11,57,4.5
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,stroll,80450.072265625,2,19,71,5.66666666666667
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,sainz,202838.473958333,1.5,18,51,9
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,ocon,28786.5,2.5,18,52,8.57142857142857
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,leclerc,26643.6,1.3,1,56,5
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,albon,21242,1,19,50,0
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,russell,30873.375,2,4,57,1
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,alonso,182112.333333333,2,10,72,0.333333333333333
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,kevin_magnussen,220369.375,3,18,72,0
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,albon,29284.25,1.25,20,61,11.6666666666667
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,max_verstappen,63742.9026692708,1.66666666666667,4,44,10.125
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,bottas,22698.6333984375,1.25,18,55,4
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,max_verstappen,20598.6666666667,1.16666666666667,5,51,8.14285714285714
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,gasly,28514.25,1.75,5,57,0.5
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,stroll,29246,1.5,8,52,0.25
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,alonso,158782.560546875,2,14,71,0.444444444444444
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,alonso,21972.8409090909,1.36363636363636,9,55,2.88888888888889
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,kevin_magnussen,22709.0625,1.1875,16,55,6.25
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,gasly,24539.7,1.4,12,56,9
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,alonso,26259,1.5,11,50,0
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,tsunoda,23704.5553385417,1.66666666666667,14,56,0.333333333333333
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,ocon,129425.333333333,1.5,15,51,12
+2024-11-23,11,4,2024,06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,max_verstappen,24004.5,1.5,5,50,0
+2024-09-01,9,3,2024,13:00:00,Autodromo Nazionale di Monza,Monza,Italy,hulkenberg,24564.0555555556,1.16666666666667,17,53,0.75
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,perez,24205.45,1.25,7,56,5.8
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,hamilton,194709.118001302,1.91666666666667,10,71,0
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,stroll,21888.3056640625,1.41666666666667,8,69,0.166666666666667
+2024-09-15,9,3,2024,11:00:00,Baku City Circuit,Baku,Azerbaijan,russell,146617.9375,1.75,3,51,1.25
+2024-07-28,7,3,2024,13:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,stroll,23628.25,1.33333333333333,11,44,6.28571428571429
+2024-09-22,9,3,2024,12:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,bottas,30826.7037760417,1.55555555555556,16,61,4.66666666666667
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,norris,109864.162597656,2.125,6,71,5.5
+2024-10-27,10,4,2024,20:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,hamilton,97256.625,1.25,4,71,0.125
+2024-12-01,12,4,2024,17:00:00,Losail International Circuit,Al Daayen,Qatar,hulkenberg,32248,2,16,57,1
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,ricciardo,19086.400390625,2,12,72,0.5
+2024-07-07,7,3,2024,14:00:00,Silverstone Circuit,Silverstone,UK,sainz,29000.6666666667,2,7,52,4
+2024-07-21,7,3,2024,13:00:00,Hungaroring,Budapest,Hungary,bottas,22738.919921875,1.6,12,69,2.7
+2024-10-20,10,4,2024,19:00:00,Circuit of the Americas,Austin,USA,kevin_magnussen,25354.380859375,1.42857142857143,11,56,1
+2024-08-25,8,3,2024,13:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,bottas,180083.229166667,2,19,72,6.33333333333333
+2024-12-08,12,4,2024,13:00:00,Yas Marina Circuit,Abu Dhabi,UAE,tsunoda,21864.8333333333,1.33333333333333,12,55,-3
+2024-11-03,11,4,2024,17:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,tsunoda,139841.977864583,2.5,7,71,0.666666666666667
